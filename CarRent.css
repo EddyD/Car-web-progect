@@ -5,6 +5,7 @@ body{
 	 background-position:center center;
 	 margin:0px;
 	 display:flex; 
+	 
 }
 .all{
 	flex:1;
@@ -27,11 +28,11 @@ header>span{
 	margin-left:480px;
 }
  #log{
-	margin-left:500px;
+	margin-left:375px;
 	font-size:20px;
 }
 .leftC{
-	height: 85%;
+	height: 760px;
 	width: 15%;
 	float:left;
 	background-color: rgba(60,228,152,0.50);
@@ -58,21 +59,27 @@ hgroup{
 .reg{
 	border: 2px solid black;
 	margin-top:10px;
-	margin-left:400px;
+	margin-left:360px;
 	background-color:rgba(255,255,255,0.20);
 	color:black;
 	font-size:20px;
 	width:30%;
 }
 .reg input{
+	background-color:black;
+	color:white;
 	margin-top:20px;
-	margin-left:70px;
+	margin-left:5px;
+}
+.send{
+	background-color:white;
+	color:black;
 }
 .info{
  font-size:30px;
  background-color:rgba(255,255,255,0.20);
  color:black;
- width:1222px
+ width:1087px;
 }
 
 h1{
@@ -80,8 +87,8 @@ h1{
 }
 .order{
 float:right;
-margin-top:70px;
-margin-left:600px;
+margin-top:100px;
+margin-left:500px;
 }
 
 h2{	
